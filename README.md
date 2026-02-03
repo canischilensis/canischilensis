@@ -24,27 +24,11 @@
 
 ## 📂 Featured Projects
 
-### 🏦 [CL-RiskEngine](https://github.com/canischilensis/cl-riskengine) | *Financial & High-Performance Computing*
-**Role:** Lead ML Engineer & Architect
-> *Targeting High-Frequency Trading & Risk Analysis efficiency.*
-- **Architecture:** Implemented **Hexagonal Architecture** to decouple stochastic kernels from infrastructure.
-- **Performance:** Engineered a vectorized simulation engine using **NumPy and Ray** for distributed Actor-based computing (Monte Carlo Simulations).
-- **Data Strategy:** Designed a **Medallion Lakehouse** (Bronze/Silver/Gold) with Schema-on-Read using Parquet.
-- **Tech:** `Python` `Ray` `NumPy` `Financial Math` `CI/CD`
+🏦 [CL-RiskEngine](https://github.com/canischilensis/cl-riskengine) | Financial & High-Performance Computing <br> *Engineered a distributed Monte Carlo risk engine utilizing Hexagonal Architecture, Ray, and a Medallion Lakehouse for high-performance financial modeling.*
 
-### 🚢 [NavOptima](https://github.com/canischilensis/navoptima) | *MLOps for Maritime Industry*
-**Role:** Lead Data Scientist
-> *Real-time route optimization system.*
-- **Core:** Predictive modeling (XGBoost) integrated with real-time Weather APIs.
-- **Ops:** CI/CD orchestration via **Apache Airflow** and **MLflow** for full model lifecycle management.
-- **Tech:** `Python` `MLOps` `Docker` `PostgreSQL` `Power BI`
+🚢 [NavOptima](https://github.com/canischilensis/navoptima) | MLOps for Maritime Industry <br> *Deployed an end-to-end MLOps solution for maritime route optimization, integrating real-time predictive modeling with Apache Airflow and MLflow orchestration.*
 
-### 🚲 [Modern Data Platform](https://github.com/canischilensis/Bikes-SQL-Python) | *Data Engineering & IaC*
-**Role:** Data Engineer
-> *Legacy Migration & Infrastructure as Code.*
-- **Engineering:** Migrated legacy systems into a scalable platform using **Terraform** for immutable infrastructure.
-- **Optimization:** Advanced **SQL 3NF modeling**, reducing query latency by **54%**.
-- **Tech:** `Terraform` `SQL Tuning` `Docker` `GCP`
+🚲 [Modern Data Platform](https://github.com/canischilensis/Bikes-SQL-Python) | Data Engineering & IaC <br> *Architected a scalable GCP data platform using Terraform for IaC, optimizing SQL modeling to reduce query latency by 54%.*
 
 ---
 
@@ -65,11 +49,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Guillermo_Vidal-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gvidalastudillo/)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:guillermo.vidal.astudillo@gmail.com)
 
----
-
-## GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/canischilensis)
 
 ## What I'm Doing
 
