@@ -2,27 +2,21 @@
 
 📍 **Santiago, Chile** | 🤖 **AI & Data Engineer** | ☁️ **Cloud Data Engineer**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)  ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+ ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=google-cloud&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) 
+
 > *Engineering scalable Data Architectures & Production-Grade AI Systems. Focused on Cloud Efficiency (FinOps), Governance, and Automating the Boring Stuff.*
-
-## 🛠️ Tech Stack & Arsenal
-
-| **Core Engineering** | **Data & Analytics** | **Cloud & DevOps** |
-|:---:|:---:|:---:|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) | ![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) | ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) |
-| ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=google-cloud&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) |
 
 ---
 
 ## 🚀 Business Impact & Metrics
-*Results-driven engineering focusing on ROI and Operational Excellence.*
-
-- 📉 **90% Cost/Time Reduction:** Automated HR unstructured data processing (from 20 to 2 mins) using **GenAI (GPT-4) & Whisper**.
-- ⚡ **95% Workflow Optimization:** Re-engineered legacy manual processes into automated Python/FastAPI ETL pipelines.
-- 🎯 **97% Model Accuracy:** Developed XGBoost predictive models for fuel consumption, validated with rigorous MLOps practices.
+📉 **90% Cost/Time Reduction:** Automated HR unstructured data processing (from 20 to 2 mins) using **GenAI (GPT-4) & Whisper**.<br>
+⚡ **95% Workflow Optimization:** Re-engineered legacy manual processes into automated Python/FastAPI ETL pipelines.<br>
+🎯 **97% Model Accuracy:** Developed XGBoost predictive models for fuel consumption, validated with rigorous MLOps practices.<br>
 
 ---
 
-## 📂 Featured Projects
+## 📂 Current Projects
 
 🏦 [CL-RiskEngine](https://github.com/canischilensis/cl-riskengine) | Financial & High-Performance Computing <br> *Engineered a distributed Monte Carlo risk engine utilizing Hexagonal Architecture, Ray, and a Medallion Lakehouse for high-performance financial modeling.*
 
