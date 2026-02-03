@@ -56,8 +56,8 @@
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/-Guillermo_Vidal-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/guillermo-vidal-astudilo/)
-[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/diadasiachilensis)
+[![LinkedIn](https://img.shields.io/badge/-Guillermo_Vidal-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gvidalastudillo/)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/canischilensis)
 [![Email](https://img.shields.io/badge/-Email_Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:guillermo.vidal.astudillo@gmail.com)
 
 ---
