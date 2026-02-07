@@ -44,7 +44,7 @@
 *Engineered a robust quality predictor using PCA for dimensionality reduction and GLM (Gamma) for non-normal distributions, validated via Mann-Whitney U tests.* <br>
 **Stack:** `PCA` `GLM` `Mann-Whitney U` `Statsmodels` `Scikit-learn`
 
-🏎️ [MPG-Predictive-Modelling]([https://www.google.com/search?q=%23](https://github.com/canischilensis/data-science/blob/main/machine-learning/aprendizaje-supervisado/Regresi%C3%B3n/Regresion-lineal-multiple/Regresi%C3%B3n_Lineal_M%C3%BAltiple.ipynb) | Econometrics & Regression <br>
+🏎️ [MPG-Predictive-Modelling](https://github.com/canischilensis/data-science/blob/main/machine-learning/aprendizaje-supervisado/Regresi%C3%B3n/Regresion-lineal-multiple/Regresi%C3%B3n_Lineal_M%C3%BAltiple.ipynb) | Econometrics & Regression <br>
 *Built a robust econometric model to predict vehicle MPG, utilizing OLS for parameter estimation and rigorous goodness-of-fit validation.* <br>
 **Stack:** `Multivariate Regression` `Statsmodels` `OLS` `Hypothesis Testing` `Data Visualization`
 
