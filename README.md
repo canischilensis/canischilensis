@@ -23,6 +23,7 @@
 🚲 [Modern Data Platform](https://github.com/canischilensis/Bikes-SQL-Python) | Data Engineering & IaC <br> *Architected a scalable GCP data platform using Terraform for IaC, optimizing SQL modeling to reduce query latency by 54%.*<br>
 
 ---
+
 ## 🧪 Data Analysis & Experiments
 💳 [Credit-Risk-Scoring](https://github.com/canischilensis/data-science/blob/main/machine-learning/aprendizaje-supervisado/Regresi%C3%B3n/Regresion-logistica/Analisis-Prediccion-riesgo-crediticio/analisis-predicci%C3%B3n-aprobacion-credito.ipynb) | Financial Modeling <br> 
 *Engineered a statistical approval model utilizing SMOTE for class imbalance and PCA for dimensionality reduction, validated via rigorous hypothesis testing.* <br>
@@ -54,7 +55,8 @@
 
 🧠 [Student-Stress-Clustering]([https://www.google.com/search?q=%23](https://github.com/canischilensis/data-science/blob/main/machine-learning/APRENDIZAJE-NO-SUPERVISADO/Modelos-de-Clustering/K-Means/Ejercicio_K_Means.ipynb)) | Pattern Recognition <br>
 *Segmented high-dimensional student data into behavioral clusters using K-Means and PCA to analyze stress factor variability.* <br>
-**Stack:** `Clustering` `K-Means` `PCA` `Dimensionality Reduction` `Scikit-learn` `Statsmodels`
+**Stack:** `Clustering` `K-Means` `PCA` `Dimensionality Reduction` `Scikit-learn` `Statsmodels`<br>
+
 ---
 
 ## Connect
