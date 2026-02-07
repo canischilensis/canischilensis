@@ -55,40 +55,6 @@
 🧠 [Student-Stress-Clustering]([https://www.google.com/search?q=%23](https://github.com/canischilensis/data-science/blob/main/machine-learning/APRENDIZAJE-NO-SUPERVISADO/Modelos-de-Clustering/K-Means/Ejercicio_K_Means.ipynb)) | Pattern Recognition <br>
 *Segmented high-dimensional student data into behavioral clusters using K-Means and PCA to analyze stress factor variability.* <br>
 **Stack:** `Clustering` `K-Means` `PCA` `Dimensionality Reduction` `Scikit-learn` `Statsmodels`
-
----
-
-### 💡 Por qué destaca este notebook (Diferenciadores Clave):
-
-1. **Aprendizaje No Supervisado:** Demuestra que dominas técnicas más allá de la predicción simple (regresión/clasificación), entrando en el terreno del **descubrimiento de patrones**.
-2. **Validación de Clusters:** El uso del **Método del Codo (Elbow Method)** y el **Coeficiente de Silueta** muestra que no elegiste el número de grupos al azar, sino con base matemática.
-3. **Reducción de Dimensionalidad (PCA):** Combinar K-Means con PCA es una técnica estándar de la industria para visualizar clusters y mejorar el rendimiento del algoritmo, lo cual suma puntos técnicos.
-
-
----
-
-### 💡 Por qué destaca este notebook (Diferenciadores Clave):
-
-1. **Fundamento Matemático:** No solo aplicas `PCA()`, sino que explicas conceptos como **autovalores, autovectores y matriz de covarianza**, demostrando que entiendes el álgebra lineal detrás del algoritmo.
-2. **Interpretabilidad:** El análisis de los **"loadings"** (cargas) es crucial. Muestra que puedes explicar *qué* significan los componentes principales en términos de las variables originales (p.ej., "PC1 representa principalmente el tamaño del cuerpo").
-3. **Pre-procesamiento:** El énfasis en la **estandarización** (`StandardScaler`) antes del PCA demuestra buenas prácticas de ingeniería de características.
-
----
-
-### 💡 Por qué destaca este notebook (Diferenciadores Clave):
-
-1. **`Statsmodels` vs `Scikit-Learn**`: Al usar `statsmodels.api.OLS`, demuestras que te importa la **interpretabilidad** del modelo (R-squared, t-stats, coeficientes), no solo el resultado final. Esto es muy valorado en sectores como Banca, Seguros y Políticas Públicas.
-2. **Fundamento Matemático**: Incluir las fórmulas de los estimadores  demuestra que entiendes la "caja negra" del algoritmo.
-3. **Análisis Multivariado**: Pasaste de una variable (regresión simple) a múltiples (peso, aceleración, HP), lo que añade complejidad real al análisis.
----
-
-### 💡 Por qué destaca este notebook (Diferenciadores Clave):
-
-1. **GLM (Gamma) vs OLS:** A diferencia del notebook anterior, aquí exploraste modelos para datos con distribuciones asimétricas (Gamma), lo cual demuestra conocimiento de estadística avanzada más allá de la "regresión lineal simple".
-2. **PCA (Principal Component Analysis):** Implementar PCA muestra que sabes manejar la maldición de la dimensionalidad y la multicolinealidad.
-3. **Comparación de Modelos:** No te quedaste con un solo resultado; comparaste métricas (MSE, R2) entre distintos enfoques, lo cual es fundamental en MLOps/Data Science.
-
-
 ---
 
 ## Connect
