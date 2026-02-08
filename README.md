@@ -49,11 +49,11 @@
 *Built a robust econometric model to predict vehicle MPG, utilizing OLS for parameter estimation and rigorous goodness-of-fit validation.* <br>
 **Stack:** `Multivariate Regression` `Statsmodels` `OLS` `Hypothesis Testing` `Data Visualization`
 
-🐧 [Penguin-PCA-Analysis]([https://www.google.com/search?q=%23](https://github.com/canischilensis/data-science/blob/main/machine-learning/Tecnicas-Reduccion-de-Dimensionalidad/PCA/PCA-Penguins-Palmer/PCA_aplicado_pinguinos.ipynb)) | Multivariate Analysis <br>
+🐧 [Penguin-PCA-Analysis](https://github.com/canischilensis/data-science/blob/main/machine-learning/Tecnicas-Reduccion-de-Dimensionalidad/PCA/PCA-Penguins-Palmer/PCA_aplicado_pinguinos.ipynb) | Multivariate Analysis <br>
 *Applied PCA for dimensionality reduction on the Palmer Penguins dataset, identifying key variance drivers through loading analysis and scree plots.* <br>
 **Stack:** `PCA` `Dimensionality Reduction` `Feature Extraction` `Scikit-learn` `Seaborn`
 
-🧠 [Student-Stress-Clustering]([https://www.google.com/search?q=%23](https://github.com/canischilensis/data-science/blob/main/machine-learning/APRENDIZAJE-NO-SUPERVISADO/Modelos-de-Clustering/K-Means/Ejercicio_K_Means.ipynb)) | Pattern Recognition <br>
+🧠 [Student-Stress-Clustering](https://github.com/canischilensis/data-science/blob/main/machine-learning/APRENDIZAJE-NO-SUPERVISADO/Modelos-de-Clustering/K-Means/Ejercicio_K_Means.ipynb) | Pattern Recognition <br>
 *Segmented high-dimensional student data into behavioral clusters using K-Means and PCA to analyze stress factor variability.* <br>
 **Stack:** `Clustering` `K-Means` `PCA` `Dimensionality Reduction` `Scikit-learn` `Statsmodels`<br>
 
