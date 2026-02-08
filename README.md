@@ -26,11 +26,11 @@
 
 ## 🧪 Data Analysis & Experiments
 
-⚖️ [Credit-Model-Benchmark]() | Supervised Learning Optimization <br>
+⚖️ [Credit-Model-Benchmark](https://github.com/canischilensis/data-science/blob/main/machine-learning/Analisis-comparativo/Analisis-comparativo-modelo-clasificacion.ipynb) | Supervised Learning Optimization <br>
 *Implemented a comparative pipeline tuning hyperparameters via GridSearchCV for SVM (RBF kernel), KNN, and LogReg, standardizing performance metrics.* <br>
 **Stack:** `Scikit-learn` `Hyperparameter Tuning` `SVM (RBF)` `GridSearchCV` `Model Evaluation`<br>
 
-📉 [Regression-Model-Benchmark]() | ML Engineering Pipelines <br>
+📉 [Regression-Model-Benchmark](https://github.com/canischilensis/data-science/blob/main/machine-learning/Analisis-comparativo/Analisis-comparativo-modelo-regresion.ipynb) | ML Engineering Pipelines <br>
 *Architected a modular training pipeline using Scikit-learn wrappers to automate hyperparameter tuning (RandomizedSearchCV) across SVR and Tree-based models.* <br>
 **Stack:** `ML Pipelines` `Hyperparameter Tuning` `RobustScaler` `SVR` `RandomizedSearchCV`<br>
 
