@@ -25,6 +25,15 @@
 ---
 
 ## 🧪 Data Analysis & Experiments
+
+⚖️ [Credit-Model-Benchmark]() | Supervised Learning Optimization <br>
+*Implemented a comparative pipeline tuning hyperparameters via GridSearchCV for SVM (RBF kernel), KNN, and LogReg, standardizing performance metrics.* <br>
+**Stack:** `Scikit-learn` `Hyperparameter Tuning` `SVM (RBF)` `GridSearchCV` `Model Evaluation`<br>
+
+📉 [Regression-Model-Benchmark]() | ML Engineering Pipelines <br>
+*Architected a modular training pipeline using Scikit-learn wrappers to automate hyperparameter tuning (RandomizedSearchCV) across SVR and Tree-based models.* <br>
+**Stack:** `ML Pipelines` `Hyperparameter Tuning` `RobustScaler` `SVR` `RandomizedSearchCV`<br>
+
 💳 [Credit-Risk-Scoring](https://github.com/canischilensis/data-science/blob/main/machine-learning/aprendizaje-supervisado/Regresi%C3%B3n/Regresion-logistica/Analisis-Prediccion-riesgo-crediticio/analisis-predicci%C3%B3n-aprobacion-credito.ipynb) | Financial Modeling <br> 
 *Engineered a statistical approval model utilizing SMOTE for class imbalance and PCA for dimensionality reduction, validated via rigorous hypothesis testing.* <br>
 **Stack:** `Logistic Regression` `Hypothesis Testing` `SMOTE` `PCA` `Statsmodels` `Inference`
@@ -56,6 +65,17 @@
 🧠 [Student-Stress-Clustering](https://github.com/canischilensis/data-science/blob/main/machine-learning/APRENDIZAJE-NO-SUPERVISADO/Modelos-de-Clustering/K-Means/Ejercicio_K_Means.ipynb) | Pattern Recognition <br>
 *Segmented high-dimensional student data into behavioral clusters using K-Means and PCA to analyze stress factor variability.* <br>
 **Stack:** `Clustering` `K-Means` `PCA` `Dimensionality Reduction` `Scikit-learn` `Statsmodels`<br>
+
+---
+
+### 💡 Análisis del Valor Técnico
+
+Este notebook complementa muy bien al de "Credit-Risk-Scoring" que ya tenías.
+
+* **Diferencia clave:** El anterior se enfocaba en *balanceo de datos* (SMOTE) y *estadística* (Statsmodels). Este se enfoca en **algoritmos de caja negra** (SVM, KNN) y **optimización computacional** (GridSearch).
+* **Narrativa:** Tienes el "Enfoque Estadístico" (el otro notebook) y el "Enfoque de Machine Learning Puro" (este notebook). Eso demuestra versatilidad.
+
+¡Quedo a la espera del **último notebook** para cerrar tu portafolio! Súbelo cuando estés listo.
 
 ---
 
