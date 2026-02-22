@@ -21,6 +21,7 @@
 🏦 [CL-RiskEngine](https://github.com/canischilensis/cl-riskengine) | Financial & High-Performance Computing <br> *Engineered a distributed Monte Carlo risk engine utilizing Hexagonal Architecture, Ray, and a Medallion Lakehouse for high-performance financial modeling.*<br>
 🚢 [NavOptima](https://github.com/canischilensis/navoptima) | MLOps for Maritime Industry <br> *Deployed an end-to-end MLOps solution for maritime route optimization, integrating real-time predictive modeling with Apache Airflow and MLflow orchestration.*<br>
 🚲 [Modern Data Platform](https://github.com/canischilensis/Bikes-SQL-Python) | Data Engineering & IaC <br> *Architected a scalable GCP data platform using Terraform for IaC, optimizing SQL modeling to reduce query latency by 54%.*<br>
+✍️ [SmartDigit](https://github.com/canischilensis/smartdigit) | Computer Vision & End-to-End MLOps <br> *Developed a containerized real-time CNN inference engine via a Django REST API, implementing strict environment parity and artifact serialization strategies for production.*<br>
 
 ---
 
