@@ -69,17 +69,6 @@
 
 ---
 
-### 💡 Análisis del Valor Técnico
-
-Este notebook complementa muy bien al de "Credit-Risk-Scoring" que ya tenías.
-
-* **Diferencia clave:** El anterior se enfocaba en *balanceo de datos* (SMOTE) y *estadística* (Statsmodels). Este se enfoca en **algoritmos de caja negra** (SVM, KNN) y **optimización computacional** (GridSearch).
-* **Narrativa:** Tienes el "Enfoque Estadístico" (el otro notebook) y el "Enfoque de Machine Learning Puro" (este notebook). Eso demuestra versatilidad.
-
-¡Quedo a la espera del **último notebook** para cerrar tu portafolio! Súbelo cuando estés listo.
-
----
-
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/-Guillermo_Vidal-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gvidalastudillo/)
