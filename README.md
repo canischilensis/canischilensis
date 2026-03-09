@@ -9,13 +9,6 @@
 
 ---
 
-## 🚀 Business Impact & Metrics
-📉 **90% Cost/Time Reduction:** Automated HR unstructured data processing (from 20 to 2 mins) using **GenAI (GPT-4) & Whisper**.<br>
-⚡ **95% Workflow Optimization:** Re-engineered legacy manual processes into automated Python/FastAPI ETL pipelines.<br>
-🎯 **97% Model Accuracy:** Developed XGBoost predictive models for fuel consumption, validated with rigorous MLOps practices.<br>
-
----
-
 ## 📂 Current Projects
 
 🏦 [CL-RiskEngine](https://github.com/canischilensis/cl-riskengine) | Financial & High-Performance Computing <br> *Engineered a distributed Monte Carlo risk engine utilizing Hexagonal Architecture, Ray, and a Medallion Lakehouse for high-performance financial modeling.*<br>
