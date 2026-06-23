@@ -15,7 +15,7 @@
 🚢 [NavOptima](https://github.com/canischilensis/navoptima) | MLOps for Maritime Industry <br> *Deployed an end-to-end MLOps solution for maritime route optimization, integrating real-time predictive modeling with Apache Airflow and MLflow orchestration.*<br>
 🚲 [Modern Data Platform](https://github.com/canischilensis/Bikes-SQL-Python) | Data Engineering & IaC <br> *Architected a scalable GCP data platform using Terraform for IaC, optimizing SQL modeling to reduce query latency by 54%.*<br>
 ✍️ [SmartDigit](https://github.com/canischilensis/smartdigit) | Computer Vision & End-to-End MLOps <br> *Developed a containerized real-time CNN inference engine via a Django REST API, implementing strict environment parity and artifact serialization strategies for production.*<br>
-🐾 [Animal Chatbot](https://github.com/canischilensis/animal-chatbot) | <br> 
+🐾 [Animal Chatbot](https://github.com/canischilensis/animal-chatbot) | LangChain & LLM <br> 
 *Educational AI chatbot teaching Chilean biodiversity. Built with LangChain, FastAPI, React, and local LLMs via Ollama, deployed using Docker microservices.*<br>
 
 ---
